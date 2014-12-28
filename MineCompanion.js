@@ -19,7 +19,7 @@ function MT_Helper_init(){
 			
 			var js = MT_Helper.document.createElement("script");
 			js.type = "text/javascript";
-			js.src = "https://raw.githubusercontent.com/mikeprescott/MT_Helper/master/MineCompanionsScript.js";
+			js.src = "https://rawgit.com/mikeprescott/MT_Helper/master/MineCompanionsScript.js";
 			MT_Helper.document.head.appendChild(js);
 		}
 	},500);void(0);
